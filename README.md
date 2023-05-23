@@ -12,3 +12,7 @@ A python program that generates programming quotes and jokes.
 - `contributor-1`: [quotes-henry-d](https://github.com/Alex9368/quotes-henry-d)
 - `contributor-2`: [quotes-hong-chen-d](https://github.com/JeremyHCi/quotes-hong-chen-d)
 - `contributor-3`: [quotes-el-haimour-d](https://github.com/AssiaELH/quotes-el-haimour-d)
+
+## Indications 
+
+La version-2.1 est la version finale du TP
